@@ -38,8 +38,8 @@ I specialize in building responsive, scalable, and maintainable solutions. Hereâ
 
 - **Full Stack Development:** Creating seamless web applications using **ReactJS**, **NodeJS**, **ExpressJS**, **MongoDB**, and **MySQL**.
 - **Backend Development:** Designing robust APIs and architectures with **Java**, **Python**, and **PHP**.
-- **Frontend Development:** Crafting beautiful interfaces with **HTML5**, **CSS3**, **JavaScript**, **Bootstrap**, and **TailwindCSS**.
-- **Database Management:** Structuring and optimizing databases with **SQL Server**, **PostgreSQL**, and **MongoDB**.
+- **Frontend Development:** Crafting beautiful interfaces with **ReactJS**,**HTML5**, **CSS3**, **JavaScript**, **Bootstrap**, and **TailwindCSS**.
+- **Database Management:** Structuring and optimizing databases with **SQL Server**,**MySQL**, **PostgreSQL**, and **MongoDB**.
 
 
 <p align="center">
@@ -55,7 +55,7 @@ Here are a few of my favorite projects:
 - **[Well-Talk](https://github.com/abey-asmare/well.git)**  
    *Technologies: Html,Css,NodeJS,Tailwind,Bootstrap,Laravel*  
    A full-featured health consultancy app to boost productivity and streamline workflows.
-
+Many Other...
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Project Showcase GIF">
 </p>
