@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Micheal Behailu!
+# 💫 About Me:
+I am a senior Software Engineering student with practical experience building web, desktop, and mobile applications. I enjoy working across both frontend and backend development, using technologies such as React.js, Next.js, Spring Boot, C++, C#, and Python. I have worked on real projects including WellTalk, an Issue Tracker system, and an AI-powered hotel management application. I am a fast learner who enjoys solving problems, collaborating with others, and taking initiative when needed. I am currently seeking a software engineering internship where I can apply my skills, learn from experienced professionals, and contribute to meaningful products.
 
-I’m a Software Engineer who loves solving real-world problems with clean, efficient, and elegant code. Whether I’m building backend systems, creating sleek user interfaces, or working across the full stack, I’m all about delivering solutions that work flawlessly and look great. With a curious mind and a knack for turning challenges into opportunities, I’m always up for learning, experimenting, and creating something awesome!
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJsb3V0Zjc3bHRjM2pobG9uZnpocG54cWVhMTJ6dW1vZnFyZjgyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="Coding GIF">
-</p>
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/itsnotmik0) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/itsnotmik0) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsnotmik0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michealbehailu) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/michealbehailu) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/itsnotmik0) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@itsmik29) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/itsnotmik0) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/michealbehailu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:michealbehailu94@gmail.com) 
 
 ---
 
