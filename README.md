@@ -3,7 +3,7 @@ I am a senior Software Engineering student with practical experience building we
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/itsnotmik0) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/itsnotmik0) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsnotmik0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michealbehailu) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/michealbehailu) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/itsnotmik0) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@itsmik29) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/itsnotmik0) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/michealbehailu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:michealbehailu94@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/itsnotmik0) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/itsnotmik0) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsnotmik0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michealbehailu) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/michealbehailu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:michealbehailu94@gmail.com) 
 
 ---
 
@@ -43,9 +43,9 @@ I specialize in building responsive, scalable, and maintainable solutions. Here�
 - **Database Management:** Structuring and optimizing databases with **SQL Server**,**MySQL**, **PostgreSQL**, and **MongoDB**.
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Work GIF">
-</p>
+</p> -->
 
 ---
 
@@ -57,9 +57,7 @@ Here are a few of my favorite projects:
    *Technologies: Html,Css,NodeJS,Tailwind,Bootstrap,Laravel*  
    A full-featured health consultancy app to boost productivity and streamline workflows.
 Many Other...
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Project Showcase GIF">
-</p>
+
 
 ---
 
@@ -77,11 +75,11 @@ I am always keen on learning new skills. Currently exploring:
 I love collaborating on exciting projects! Feel free to reach out:
 
 - **Email:** [MichealBehailu94@gmail.com](mailto:michealbehailu@gmail.com)
-- **LinkedIn:** [Micheal Behailu](https://linkedin.com/in/yourprofile)
+- **LinkedIn:** [Micheal Behailu](https://www.linkedin.com/in/michealbehailu)
 - **Instagram:**[Micheal Behaiilu](https://www.instagram.com/itsnotmik0)
 - **Twitter:**[Micheal Behailu](https://x.com/itsnotmik0)
 
 
 ---
 
-⭐️ **Fun Fact:** I’m also a social media marketer and big fan of photograpy!
+⭐️ **Fun Fact:** I’m also a social media manager and big fan of photograpy!
