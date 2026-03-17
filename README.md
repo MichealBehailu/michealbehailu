@@ -37,9 +37,9 @@ I am a senior Software Engineering student with practical experience building we
 
 I specialize in building responsive, scalable, and maintainable solutions. Here’s an overview of what I love doing:
 
-- **Full Stack Development:** Creating seamless web applications using **ReactJS**, **NodeJS**, **ExpressJS**, **MongoDB**, and **MySQL**.
-- **Backend Development:** Designing robust APIs and architectures with **Java**, **Python**, and **PHP**.
-- **Frontend Development:** Crafting beautiful interfaces with **ReactJS**,**HTML5**, **CSS3**, **JavaScript**, **Bootstrap**, and **TailwindCSS**.
+- **Full Stack Development:** Creating seamless web applications using **ReactJS**,**NextJS**, **NodeJS**, **ExpressJS**, **MongoDB**, and **MySQL**.
+- **Backend Development:** Designing robust APIs and architectures with **Spring-Boot**, **Nestjs**, and **Express**.
+- **Frontend Development:** Crafting beautiful interfaces with **ReactJS**, **NextJS**,**HTML5**, **CSS3**, **JavaScript**, **Bootstrap**, and **TailwindCSS**.
 - **Database Management:** Structuring and optimizing databases with **SQL Server**,**MySQL**, **PostgreSQL**, and **MongoDB**.
 
 
