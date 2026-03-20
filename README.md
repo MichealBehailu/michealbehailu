@@ -1,5 +1,5 @@
 
-I am a senior Software Engineering student with practical experience building web, desktop, and mobile applications. I enjoy working across both frontend and backend development, using technologies such as React.js, Next.js, Spring Boot, C++, C#, and Python. I have worked on real projects including WellTalk, an Issue Tracker system, and an AI-powered hotel management application. I am a fast learner who enjoys solving problems, collaborating with others, and taking initiative when needed. I am currently seeking a software engineering internship where I can apply my skills, learn from experienced professionals, and contribute to meaningful products.
+My name is Micheal Behailu. I am a senior Software Engineering student with practical experience building web, desktop, and mobile applications. I enjoy working across both frontend and backend development, using technologies such as React.js, Next.js, Spring Boot, C++, C#, and Python. I have worked on real projects including WellTalk, an Issue Tracker system, and an AI-powered hotel management application. I am a fast learner who enjoys solving problems, collaborating with others, and taking initiative when needed. I am currently seeking a software engineering internship where I can apply my skills, learn from experienced professionals, and contribute to meaningful products.
 
 
 ## 🌐 Socials:
