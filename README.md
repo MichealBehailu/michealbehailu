@@ -1,7 +1,4 @@
 
-My name is Micheal Behailu. I am a senior Software Engineering student with practical experience building web, desktop, and mobile applications. I enjoy working across both frontend and backend development, using technologies such as React.js, Next.js, Spring Boot, C++, C#, and Python. I have worked on real projects including WellTalk, an Issue Tracker system, and an AI-powered hotel management application. I am a fast learner who enjoys solving problems, collaborating with others, and taking initiative when needed. I am currently seeking a software engineering internship where I can apply my skills, learn from experienced professionals, and contribute to meaningful products.
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/itsnotmik0) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/itsnotmik0) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsnotmik0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michealbehailu) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/michealbehailu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:michealbehailu94@gmail.com) 
 
@@ -35,31 +32,12 @@ My name is Micheal Behailu. I am a senior Software Engineering student with prac
 
 ## 🚀 What I Do
 
-I specialize in building responsive, scalable, and maintainable solutions. Here’s an overview of what I love doing:
+I specialize in building responsive, scalable, and maintainable solutions. Here’s an overview of what I love doing: 
 
-- **Full Stack Development:** Creating seamless web applications using **ReactJS**,**NextJS**, **NodeJS**, **ExpressJS**, **MongoDB**, and **MySQL**.
-- **Backend Development:** Designing robust APIs and architectures with **Spring-Boot**, **Nestjs**, and **Express**.
-- **Frontend Development:** Crafting beautiful interfaces with **ReactJS**, **NextJS**,**HTML5**, **CSS3**, **JavaScript**, **Bootstrap**, and **TailwindCSS**.
-- **Database Management:** Structuring and optimizing databases with **SQL Server**,**MySQL**, **PostgreSQL**, and **MongoDB**.
-
-
-<!-- <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Work GIF">
-</p> -->
-
----
-
-## 🛠️ Projects
-
-Here are a few of my favorite projects:
-
-- **[Well-Talk](https://github.com/abey-asmare/well.git)**  
-   *Technologies: Html,Css,NodeJS,Tailwind,Bootstrap,Laravel*  
-   A full-featured health consultancy app to boost productivity and streamline workflows.
-Many Other...
-
-
----
+- **Full Stack Development**
+- **Backend Development**
+- **Frontend Development** 
+- **Database Management** 
 
 ## 🌱 Currently Learning
 
@@ -74,8 +52,8 @@ I am always keen on learning new skills. Currently exploring:
 
 I love collaborating on exciting projects! Feel free to reach out:
 
-- **Email:** [MichealBehailu94@gmail.com](mailto:michealbehailu@gmail.com)
-- **LinkedIn:** [Micheal Behailu](https://www.linkedin.com/in/michealbehailu)
+- **Email:** [MichealBehailu94@gmail.com](mailto:michealbehailu94@gmail.com)
+- **LinkedIn:** [Micheal Behailu]([https://www.linkedin.com/in/michealbehailu](https://www.linkedin.com/in/michealbehailu))
 - **Instagram:**[Micheal Behaiilu](https://www.instagram.com/itsnotmik0)
 - **Twitter:**[Micheal Behailu](https://x.com/itsnotmik0)
 
